@@ -1,0 +1,4 @@
+Le jeu est distribué gratuitement au format déma.
+Le programme peut être amélioré mais doit avoir obligatoirement une version gratuite démastéralisé si une version cartouche est reproduite (dans ce cas la, les graphismes doivent être changé).
+ 
+
