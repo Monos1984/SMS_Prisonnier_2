@@ -1,0 +1,9 @@
+### Fiche de sprite ###
+Les deux prisonnier
+La Cible
+
+### Tiles ###
+L'obstacle à poser.
+
+### Autre ### 
+Décaler les couleurs des lumière pour les annimer. 
